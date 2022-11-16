@@ -1,0 +1,3 @@
+[submodule "thirty-party/Log"]
+	path = thirty-party/Log
+	url = git@github.com:gaoweibinonly1/Log.git
